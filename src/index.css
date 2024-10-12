@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+bg {
+  /* color: #2d314d; */
+  /* color: #2bb7da; */
+}
+
+html {
+  overflow-x: hidden;
+}
